@@ -15,7 +15,7 @@ function About() {
                             <p>Lorem <label>ipsum</label> dol  <span>-sitamet</span></p>
                         </div>
                         <div className="col-md-7 about-right">
-                            <h3>Lorem ipsum dolor sit amet, consec</h3>
+                            <h3>kamlesh jangir</h3>
                             <p>Donec bibendum massa metus, vel aliquet nunc varius eu. Curabitur nec scelerisque dui. Quisque mattis libero et enim ultricies gravida. Nulla ut commodo massa, eget tincidunt ligula. Vivamus eu ante tincidunt, fermentum risus nec, pharetra turpis. Donec rhoncus eros sed felis aliquet tincidunt. In consectetur tempor quam</p>
                             <ul className="list-unstyled list-inline">
                                 <li>Sed vitae facilisis nisi, in finibus lacus. Duis vel nulla orci.</li>
